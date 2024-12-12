@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![prof_pic](/images/SW_photo.png){: .align-right width="300px"}
 I'm a second-year computer science Ph.D. student in the [DataLab](https://ics.uci.edu/~smyth/research_group.html) group at the University of California, Irvine, advised by [Dr. Padhraic Smyth](https://ics.uci.edu/~smyth/index.html) 
 I am broadly interested in understanding human-AI interaction, focusing on developing methods and tools based on Bayesian learning and cognitive science. My current research focuses on developing online adaptive AI systems to infer human abilities and provide tailored suggestions. 
 
