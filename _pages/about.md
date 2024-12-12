@@ -1,9 +1,8 @@
 ---
-layout: about
-title: Shang Wu
 permalink: /
+title: "Shang Wu"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
