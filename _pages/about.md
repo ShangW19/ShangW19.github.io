@@ -1,0 +1,13 @@
+---
+permalink: /
+title: "Shang Wu"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+![prof_pic](/images/SW_photo.jpg){: .align-right width="300px"}
+I am a Ph.D. candidate in Computer Science in the [DataLab](https://ics.uci.edu/~smyth/research_group.html) group at the University of California, Irvine, advised by [Dr. Padhraic Smyth](https://ics.uci.edu/~smyth/index.html). 
+I am broadly interested in human–AI interaction and statistical methods for evaluating the reliability and uncertainty of AI-generated outputs, with applications to reasoning, learning, and information interpretation in behavioral and educational settings.  I’m a member of the [HPI Research Center in Machine Learning and Data Science](https://hpi.ics.uci.edu/students/) at UCI.
+
+Prior to joining UC Irvine, I earned dual bachelor's degrees in Computer Science and Psychology from UC Davis. I was a research assistant with [Dr. Jeffrey Schank](https://agent-based-models.com/schanklab/research/) and with [Dr. Huaijun Zhou](https://zhou.faculty.ucdavis.edu/).
