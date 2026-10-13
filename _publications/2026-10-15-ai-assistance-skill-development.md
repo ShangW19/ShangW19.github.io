@@ -5,5 +5,6 @@ category: publications
 permalink: /publication/2026-10-15-ai-assistance-skill-development
 date: 2026-10-15
 venue: 'HCOMP 2026'
+paperurl: 'https://dl.acm.org/doi/10.1145/3834580.3838741'
 authors: '<b>Wu, S.</b>, Belém, C., Fu, S., Steyvers, M., Smyth, P.'
 ---
