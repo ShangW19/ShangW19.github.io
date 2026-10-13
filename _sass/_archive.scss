@@ -90,17 +90,8 @@
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
-  }
-
-  @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
-  }
-
-  @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
-  }
+  /* no right sidebar on this site, so let list text use the full width */
+  padding-right: 0;
 
   .page__meta {
     margin: 0 0 4px;
